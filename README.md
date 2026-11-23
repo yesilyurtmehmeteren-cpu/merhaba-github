@@ -1,2 +1,10 @@
-# merhaba-github
-Github'ı öğrenirken oluşturduğum ilk depo
+# Merhaba GitHub
+
+Bu depo, GitHub'ı kullanırken oluşturduğum ilk depo.
+
+## Hakkımda 
+
+- **Bölüm:** Bilgisayar Mühendisliği
+- **En çok merak ettiğim konu:** Batrakov kaç milyon euro
+
+- ## Bu depoda neler var?
